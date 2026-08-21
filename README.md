@@ -7,7 +7,7 @@
 </div>
 
 # 💫 About Me:
-🎓 Fourth Year B.Tech CSE student at VIT Bhopal (2023–2027)<br>🏆 Top 105 National Finalist (top 3% of 3,700+ teams) — Google GDG Solution Challenge 2025<br>📄 Published author — "Entropy and Mutual Information in Object Detection: An Information Theory Perspective", 5th International Congress on Khazar Scientific Research<br>🔭 Currently building Gurukul AI — an LLM-powered EdTech platform with RAG pipelines and real-time facial recognition<br>🌱 I'm currently learning how to live<br><br>📫 How to reach me? By using my address (or just email me, that works too 👆)<br>😄 Pronouns: He/His<br>⚡ Fun fact: I can sleep for an entire day and still wake up tired<br>🎯 Actively seeking internships in AI Engineering, Full-Stack Development, or Applied ML
+🎓 Fourth Year B.Tech CSE student at VIT Bhopal (2023–2027)<br>🏆 Top 105 National Finalist (top 3% of 3,700+ teams) — Google GDG Solution Challenge 2025<br>📄 Published author — "Entropy and Mutual Information in Object Detection: An Information Theory Perspective", 5th International Congress on Khazar Scientific Research<br>🔭 Currently building Gurukul AI — an LLM-powered EdTech platform with RAG pipelines and real-time facial recognition<br>🌱 I'm currently learning how to live<br>📫 How to reach me? By using my address (or just email me, that works too 👆)<br>😄 Pronouns: He/His<br>⚡ Fun fact: I can sleep for an entire day and still wake up tired<br>🎯 Actively seeking internships in AI Engineering, Full-Stack Development, or Applied ML
 
 ## 🛠️ Skills & Tech Stack
 
